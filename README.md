@@ -5,3 +5,16 @@ The AI plays the game multiple times using completely random moves! The average 
 It's interesting to note that even though the AI is based on random moves, it plays quite well. 
 
 A typical AI game can reach 70000 points and last 3000 moves, yet the random-play runs from any given position yield an average of 340 extra points and only 40 extra moves before dying. (You can see this for yourself by running the AI and opening the debug console.)
+
+## CREDITS
+
+>Kuldeep Singh Sidhu
+
+Github: [github/singhsidhukuldeep](https://github.com/singhsidhukuldeep)
+`https://github.com/singhsidhukuldeep`
+
+Website: [Kuldeep Singh Sidhu (Website)](http://kuldeepsinghsidhu.com)
+`http://kuldeepsinghsidhu.com`
+
+LinkedIn: [Kuldeep Singh Sidhu (LinkedIn)](https://www.linkedin.com/in/singhsidhukuldeep/)
+`https://www.linkedin.com/in/singhsidhukuldeep/`
